@@ -1,0 +1,30 @@
+  525  git push
+  526  git push --set-upstream origin feature
+  527  ls -a
+  528  touch .gitignore
+  529  ls -a
+  530  git status
+  531  git commit --amend
+  532  git status
+  533  git checkout main
+  534  git log online
+  535  git log --oneline
+  536  git push -f origin main
+  537  git log --oneline
+  538  git checkout feature
+  539  git pull
+  540  git push -а origin feature
+  541  git push -f origin feature
+  542  git status
+  543  git log --oneline
+  544  git status
+  545  git commit 02611e3 --amend
+  546  git commit --amend
+  547  git status
+  548  git log --oneline
+  549  git push -f origin feature
+  550  git checkout main
+  551  git merge feature
+  552  git status
+  553  git push -f origin main
+  554  history | tail -30 > homeworkhistory.txt
